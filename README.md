@@ -2,7 +2,7 @@
 <h3 align="center">A Motivated frontend developer from IRAN</h3>
 <img align="right" alt="gif" width="400" src="https://media2.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif">
 
-- 🌱 I’m currently learning **MUI, typescript, Next JS**
+- 🌱 I’m currently learning **typescript, Next JS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
