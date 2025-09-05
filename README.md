@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm mojtaba nabilu</h1>
-<h3 align="center">A Motivated frontend developer from IRAN</h3>
+<h3 align="center">A Motivated frontend developer</h3>
 <img align="right" alt="gif" width="400" src="https://media2.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif">
 
 - 🌱 I’m currently learning **Vue, Next JS, Three Js**
